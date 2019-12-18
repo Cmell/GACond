@@ -1,5 +1,5 @@
 mturker,affirmationCond,ratCond,group text
-0001,High,Hard,family
-0002,High,Easy,CU Social Psychology
-0003,Low,Hard,groupA
-0004,Low,Easy,groupB
+0001,High,Hard,your family
+0002,High,Easy,that you are a graduate student at CU Boulder
+0003,Low,Hard,that you are on a soccer team
+0004,Low,Easy,that you are in Psi Chi
