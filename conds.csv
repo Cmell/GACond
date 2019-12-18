@@ -1,5 +1,5 @@
-mturker,affirmationCond,ratCond
-0001,High,Hard
-0002,High,Easy
-0003,Low,Hard
-0004,Low,Easy
+mturker,affirmationCond,ratCond,group text
+0001,High,Hard,family
+0002,High,Easy,CU Social Psychology
+0003,Low,Hard,groupA
+0004,Low,Easy,groupB
