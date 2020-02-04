@@ -1,5 +1,7 @@
-mturker,affirmationCond,ratCond,group text
-0001,High,Hard,your family
-0002,High,Easy,that you are a graduate student at CU Boulder
-0003,Low,Hard,that you are on a soccer team
-0004,Low,Easy,that you are in Psi Chi
+mturker,affirmationCond,ratCond,group text,taskOrder
+0001,High,Hard,your family,threatfirst
+0002,High,Easy,that you are a graduate student at CU Boulder,threatfirst
+0003,Low,Hard,that you are on a soccer team,affirmfirst
+0004,Low,Easy,that you are in Psi Chi,affirmfirst
+0005,Control,Hard,that you are on a soccer team,affirmfirst
+0006,Control,Easy,that you are in Psi Chi,affirmfirst

@@ -11,6 +11,7 @@ while (($data = fgetcsv($file, 1000, ",")) !== FALSE) {
     $affirmationcond = $data[1];
     $ratcond = $data[2];
     $grouptext = $data[3];
+    $taskorder = $data[4];
     break;
   }
 }
@@ -25,6 +26,7 @@ $retval = Array();
 $retval['affirmcond'] = $affirmationcond;
 $retval['ratcond'] = $ratcond;
 $retval['grouptext'] = $grouptext;
+$retval['taskorder'] = $taskorder;
 
 header('Content-type: application/json');
 exit(json_encode($retval));
